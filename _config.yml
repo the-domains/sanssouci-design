@@ -1,0 +1,40 @@
+layout_spectrum: 0.1612903
+opengraph:
+  image: null
+  type: null
+  appId: null
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+purpose: []
+color:
+  saturation: 0.8387899270746857
+  brandStrength: 0.6889400293584913
+  rhythmicContrast: 0.9577148831449449
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  lightness: 0.03780658915638924
+typography_spectrum: 0.3637993
+cta:
+  bucket: null
+  version: null
+  domain: null
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+favicon: null
+name: SansSouci Design
